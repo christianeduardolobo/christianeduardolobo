@@ -1,58 +1,33 @@
 <div align="center">
-
-<img src="./assets/hero-wolf.png" width="100%" alt="C. LOBO — Christian Eduardo Lobo, original dark wolf photo supplied by Christian" />
-
-<br>
-
-**WEB DEVELOPMENT** &nbsp; / &nbsp; **GAME SYSTEMS** &nbsp; / &nbsp; **DIGITAL FORENSICS**
-
+  <img src="./assets/cover.png" width="100%" alt="C. LOBO — Christian Eduardo Lobo" />
 </div>
 
-<br>
+### about
 
-### 01 &nbsp; / &nbsp; ABOUT
+I'm Christian. I build web interfaces, work with game code, and investigate digital traces.
 
-I'm Christian. I work with **web interfaces**, **game-related code** and **digital investigations**. I like getting past the surface of a system and figuring out what's actually happening underneath.
+**HTML & CSS** are my strongest tools. I know the basics of **JavaScript**, and I'm working on getting better at **C++**. I also have experience investigating cheats in **FiveM**, Windows logs, execution artifacts and steganography.
 
-I know my way around **HTML and CSS**, have a foundation in **JavaScript**, and I'm getting deeper into **C++**. I've also worked with **FiveM cheat screening**, Windows artifacts, logs and execution traces.
+### forensic desk
 
-Steganography, game security and digital forensics are the areas I keep coming back to. **Memory analysis is something I still want to learn**, not a skill I'm claiming yet.
+| System inspection | Artifacts & timelines |
+|:--|:--|
+| [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) | [MFTECmd](https://github.com/EricZimmerman/MFTECmd) |
+| [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon) | [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) |
+| [Sigcheck](https://learn.microsoft.com/en-us/sysinternals/downloads/sigcheck) | [Timeline Explorer](https://ericzimmerman.github.io/) |
+| [Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer) | Windows Prefetch / USN Journal |
+| Registry Editor | NTFS / $MFT / Event Logs |
 
-<br>
+### stack
 
-### 02 &nbsp; / &nbsp; FORENSIC DESK
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,vscode,git,github&theme=dark" alt="HTML, CSS, JavaScript, C++, VS Code, Git and GitHub" height="43" />
+</div>
 
-<img src="./assets/forensics.png" width="100%" alt="Forensic tools: Process Explorer, Process Monitor, Sigcheck, MFTECmd, AmcacheParser, Timeline Explorer, Event Viewer and Registry Editor" />
+### currently
 
-<sub>Things I investigate: Prefetch &nbsp;·&nbsp; Amcache &nbsp;·&nbsp; NTFS / $MFT &nbsp;·&nbsp; USN Journal &nbsp;·&nbsp; Event Logs &nbsp;·&nbsp; Registry</sub>
-
-<br>
-<br>
-
-### 03 &nbsp; / &nbsp; DEVELOPMENT
-
-<img src="./assets/development.png" width="100%" alt="Languages and tools: HTML5, CSS3, JavaScript, C++, Visual Studio Code, Git, GitHub" />
-
-**Strongest in:** HTML / CSS &nbsp; · &nbsp; **Working on:** C++ &nbsp; · &nbsp; **Foundation:** JavaScript
-
-<br>
-
-<img src="./assets/section.png" width="100%" alt="Field Notes — Find what the system left behind" />
-
-### 04 &nbsp; / &nbsp; CURRENTLY
-
-- **Building** web interfaces and game-related tools.
-- **Investigating** Windows artifacts, software traces and suspicious behavior.
-- **Learning** more C++ by reading, debugging and writing code myself.
-
-My public repositories are still taking shape. I won't pin fake projects just to fill the page.
+Learning more C++ by reading, debugging and writing code. Exploring Windows internals and building tools worth publishing.
 
 ---
 
-<div align="center">
-
-[**GITHUB**](https://github.com/christianeduardolobo) &nbsp;&nbsp; / &nbsp;&nbsp; [**REPOSITORIES**](https://github.com/christianeduardolobo?tab=repositories)
-
-<sub>C. LOBO &nbsp;—&nbsp; code / trace / investigate</sub>
-
-</div>
+<sub>**C. LOBO** · Brazil · [repositories](https://github.com/christianeduardolobo?tab=repositories)</sub>
