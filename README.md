@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="whoami — christian lobo" width="100%" />
+  <img src="assets/banner-whoami.png" alt="whoami — christian lobo" width="100%" />
 </p>
 
 ## `01` / About
