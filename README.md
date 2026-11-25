@@ -1,16 +1,42 @@
-<img src="assets/banner.png" alt="Digital hands reaching toward a folder named create" width="100%" />
+<p align="center">
+  <img src="assets/banner.png" alt="whoami — christian lobo" width="100%" />
+</p>
 
-# Christian Eduardo Lobo
+## `01` / About
 
-Software development, digital forensics and Windows internals.
+I'm Christian Eduardo Lobo, from Brazil. I work on software projects and study Windows internals, software security and digital forensics.
 
-I build software and study how it behaves beyond the source code: how processes interact with the operating system, how applications handle trust, and what traces they leave behind.
+My interest is in both sides of software: building it and understanding what happens when it runs. I study process behavior, memory, authentication and the artifacts applications leave on a system.
 
-### Areas of interest
+## `02` / Technical focus
 
-- **Software** — C++, application architecture and web development.
-- **Systems** — Windows API, process memory and debugging.
-- **Forensics** — NTFS artifacts, execution history, event logs and timeline analysis.
-- **Security** — software integrity, authentication and reverse engineering.
+**Software & systems**
 
-<sub>Brazil · <a href="https://github.com/christianeduardolobo?tab=repositories">Repositories</a></sub>
+C++ · Win32 API · process memory · debugging · client/server architecture
+
+**Digital forensics**
+
+NTFS / $MFT · USN Journal · Prefetch · Amcache · Windows Event Logs · timeline reconstruction
+
+**Security**
+
+Software integrity · authentication · reverse engineering · anti-cheat analysis
+
+## `03` / Toolkit
+
+```text
+Development    C++ / Python / JavaScript / HTML / CSS
+Environment    Windows / VS Code / Git
+Inspection     Process Explorer / Process Monitor / Sigcheck
+Forensics      MFTECmd / AmcacheParser / Timeline Explorer
+```
+
+## `04` / Current work
+
+- Developing and debugging native Windows applications.
+- Exploring authentication, software integrity and process internals.
+- Practicing Windows artifact analysis and forensic reconstruction.
+
+---
+
+<sub>Brazil &nbsp; / &nbsp; <a href="https://github.com/christianeduardolobo?tab=repositories">Repositories</a></sub>
