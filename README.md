@@ -1,28 +1,33 @@
+
 <p align="center">
   <img src="assets/banner-whoami.png" alt="whoami — christian lobo" width="100%" />
 </p>
 
+<p align="center">
+  <i>Every system leaves a trace.</i>
+</p>
+
 ## `01` / About
 
-I'm Christian Eduardo Lobo, from Brazil. I work on software projects and study Windows internals, software security and digital forensics.
+I'm Christian Eduardo Lobo, a software developer and independent researcher from Brazil, focused on Windows internals, software security and digital forensics.
 
-My interest is in both sides of software: building it and understanding what happens when it runs. I study process behavior, memory, authentication and the artifacts applications leave on a system.
+My interests lie at the intersection of software development and system analysis — understanding not only how software is built, but also how it behaves, interacts with the operating system and leaves evidence behind.
 
-## `02` / Technical focus
+## `02` / Technical Focus
 
-**Software & systems**
+**Software Engineering & Windows Internals**
 
-C++ · Win32 API · process memory · debugging · client/server architecture
+C++ · Win32 API · Process Memory · Debugging · Client/Server Architecture
 
-**Digital forensics**
+**Digital Forensics**
 
-NTFS / $MFT · USN Journal · Prefetch · Amcache · Windows Event Logs · timeline reconstruction
+NTFS · $MFT · USN Journal · Prefetch · Amcache · Windows Event Logs · Timeline Reconstruction
 
-**Security**
+**Software Security**
 
-Software integrity · authentication · reverse engineering · anti-cheat analysis
+Software Integrity · Authentication · Reverse Engineering · Anti-Cheat Analysis
 
-## `03` / Toolkit
+## `03` / Technical Toolkit
 
 ```text
 Development    C++ / Python / JavaScript / HTML / CSS
@@ -31,12 +36,19 @@ Inspection     Process Explorer / Process Monitor / Sigcheck
 Forensics      MFTECmd / AmcacheParser / Timeline Explorer
 ```
 
-## `04` / Current work
+## `04` / Current Focus
 
-- Developing and debugging native Windows applications.
-- Exploring authentication, software integrity and process internals.
-- Practicing Windows artifact analysis and forensic reconstruction.
+- Development and debugging of native Windows applications.
+- Research into Windows internals and process behavior.
+- Analysis of authentication mechanisms and software integrity.
+- Windows artifact analysis and forensic reconstruction.
 
 ---
 
-<sub>Brazil &nbsp; / &nbsp; <a href="https://github.com/christianeduardolobo?tab=repositories">Repositories</a></sub>
+<p align="center">
+  <sub>
+    Brazil &nbsp; / &nbsp;
+    <a href="https://github.com/christianeduardolobo?tab=repositories">Repositories</a>
+    &nbsp; / &nbsp; EOF_
+  </sub>
+</p>
