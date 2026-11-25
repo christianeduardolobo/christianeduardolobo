@@ -1,31 +1,24 @@
 
 <p align="center">
-  <img src="assets/banner-whoami.png" alt="whoami — christian lobo" width="100%" />
-</p>
-
-<p align="center">
-  <i>Every system leaves a trace.</i>
+  <img src="assets/banner-digital-animado.gif" alt="whoami — christian lobo" width="100%" />
 </p>
 
 ## `01` / About
 
-I'm Christian Eduardo Lobo, a software developer and independent researcher from Brazil, focused on Windows internals, software security and digital forensics.
+I'm Christian Eduardo Lobo, a developer from Brazil with an interest in digital forensics, software security and Windows internals.
 
-My interests lie at the intersection of software development and system analysis — understanding not only how software is built, but also how it behaves, interacts with the operating system and leaves evidence behind.
+I build software and study the traces it leaves behind. My interests range from native applications and process behavior to digital evidence, authentication and forensic reconstruction.
 
 ## `02` / Technical Focus
 
-**Software Engineering & Windows Internals**
-
+**Software & Systems**  
 C++ · Win32 API · Process Memory · Debugging · Client/Server Architecture
 
-**Digital Forensics**
+**Digital Forensics & OSINT**  
+NTFS · $MFT · USN Journal · Prefetch · Amcache · Windows Event Logs · Timeline Reconstruction · Open-Source Intelligence
 
-NTFS · $MFT · USN Journal · Prefetch · Amcache · Windows Event Logs · Timeline Reconstruction
-
-**Software Security**
-
-Software Integrity · Authentication · Reverse Engineering · Anti-Cheat Analysis
+**Software Security**  
+Authentication · Software Integrity · Reverse Engineering · Anti-Cheat Analysis
 
 ## `03` / Technical Toolkit
 
@@ -38,10 +31,10 @@ Forensics      MFTECmd / AmcacheParser / Timeline Explorer
 
 ## `04` / Current Focus
 
-- Development and debugging of native Windows applications.
-- Research into Windows internals and process behavior.
-- Analysis of authentication mechanisms and software integrity.
-- Windows artifact analysis and forensic reconstruction.
+- Developing and debugging native Windows applications.
+- Studying process behavior, memory and operating system internals.
+- Examining authentication mechanisms and software integrity.
+- Reconstructing events through Windows forensic artifacts and open-source research.
 
 ---
 
